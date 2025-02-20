@@ -10,9 +10,13 @@ class Assets {
 
   static const String imagesBalance = "assets/images/balance.svg";
 
+  static const String imagesCardBackground = "assets/images/card_background.png";
+
   static const String imagesDashboard = "assets/images/dashboard.svg";
 
   static const String imagesExpenses = "assets/images/expenses.svg";
+
+  static const String imagesGallery = "assets/images/gallery.svg";
 
   static const String imagesIncome = "assets/images/income.svg";
 
