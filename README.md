@@ -102,5 +102,3 @@ The project follows a standard Flutter project structure:
 ## Contact
 
 Muhammad Issa - mu7ammad.3issa@gmail.com
-
-Project Link: [https://github.com/your_username/responsive_dash_board](https://github.com/your_username/responsive_dash_board)
