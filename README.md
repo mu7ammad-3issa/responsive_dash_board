@@ -48,7 +48,7 @@ The primary goal of this project is to illustrate best practices for building re
 
 ![Screenshot_٢٠٢٥٠٥٢٨-١٦٥٠٣٧](https://github.com/user-attachments/assets/407abe18-b21b-401a-88c9-77e8f668c4ea)
 
-**Tablet View (Side-by-Side)**
+**Tablet View 
 <img width="276" alt="Medium Tablet" src="https://github.com/user-attachments/assets/5d0f312d-11e9-4d4d-b24f-9bb07114aa06" /> <img width="256" alt="Large tablet" src="https://github.com/user-attachments/assets/8a137b98-ce40-4f7b-aa06-f5e27b178af6" />
 
 **Desktop/Web View**
